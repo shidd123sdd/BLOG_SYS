@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "IMAGE_PRE_PATH",
+      "type": "java.lang.String",
+      "description": "Description for IMAGE_PRE_PATH."
+  }
+] }
